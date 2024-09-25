@@ -5,8 +5,10 @@ body{
 h1{
     text-align: center;
     text-transform: uppercase;
-    font-size: 48px;    
+    font-size: 48px;
+    font-weight: bolder;    
 }
 p{
+    text-align: start;
     font-size: 24px;
 }
