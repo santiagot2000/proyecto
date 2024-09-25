@@ -1,6 +1,6 @@
 body{
     background-color: blue;
-    text-align: center;    
+   
 }
 h1{
     text-align: center;
@@ -11,4 +11,9 @@ h1{
 p{
     text-align: start;
     font-size: 24px;
+}
+img{
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
 }
